@@ -31,5 +31,5 @@
 # **📈Statistics**
 <p align="center"> 
 <img width = "48%" src = "https://github-readme-stats.vercel.app/api?username=krishcodz&show_icons=true&theme=dracula"/>
-<img width = "48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=krishcodz&layout=compact&theme=dracula" alt="VaibhavTekk" />
+<img width = "48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=krishcodz&layout=compact&theme=dracula" alt="Krishcodz"/>
 </p>
