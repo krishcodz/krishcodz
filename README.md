@@ -32,5 +32,6 @@
 <p align="center"> 
 <img width = "48%" src = "https://github-readme-stats.vercel.app/api?username=krishcodz&show_icons=true&theme=dracula"/>
 <img width = "48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=krishcodz&layout=compact&theme=dracula" alt="Krishcodz"/>
-![snake gif](https://github.com/krishcodz/krishcodz/blob/77a1cb249177911fa3f3b32907565249a3b5bdee/github-contribution-grid-snake.gif)
 </p>
+
+![snake gif](https://github.com/krishcodz/krishcodz/blob/77a1cb249177911fa3f3b32907565249a3b5bdee/github-contribution-grid-snake.gif)
