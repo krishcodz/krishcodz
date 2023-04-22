@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @krishcodz
 - 👀 I’m interested in becoming a web/product developer
-- 🌱 I’m currently learning python(oop)
+- 🌱 I’m currently learning BACKEND DEVELOPMENT
 - 💞️ I’m looking to collaborate on oop projects based on python
-- 📫 How to reach me :  Whatsapp : +919790714158
+- 📫 How to reach me :  krishnax711@gmail.com
 
 # Languages know
 <p dir="auto">
@@ -28,6 +28,8 @@
 
 <a><img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png" style="max-width: 100%;"></a>
 
+ <a><img align="left" alt="mongodb" width="26px" src="https://raw.githubusercontent.com/mongodb/mongo/master/docs/leaf.svg" style="max-width: 100%;"></a>
+ 
 </p>
 <br></br>
 
