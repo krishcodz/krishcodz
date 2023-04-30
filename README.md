@@ -1,10 +1,10 @@
 - 👋 Hi, I’m @krishcodz
-- 👀 I’m interested in becoming a web/product developer
+- 👀 I’m interested in becoming a web developer
 - 🌱 I’m currently learning BACKEND DEVELOPMENT
-- 💞️ I’m looking to collaborate on oop projects based on python
+- 💞️ I’m looking to collaborate on web dev projects
 - 📫 How to reach me :  krishnax711@gmail.com
 
-# Languages know
+# Languages known
 <p dir="auto">
 
 <a><img align="left" alt="HTML5" width="26px" src="https://camo.githubusercontent.com/da7acacadecf91d6dc02efcd2be086bb6d78ddff19a1b7a0ab2755a6fda8b1e9/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f68746d6c352f68746d6c352d6f726967696e616c2e737667" data-canonical-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="max-width: 100%;"></a>
