@@ -3,7 +3,7 @@
 <h3 align="center">A passionate web developer from Chennai</h3>
 
 - 👀 I’m interested in becoming a web developer
-- 🌱 I’m currently learning BACKEND DEVELOPMENT
+- 🌱 I’m currently learning ReactJS
 - 💞️ I’m looking to collaborate on web dev projects
 - 📫 How to reach me :  krishnax711@gmail.com
 
