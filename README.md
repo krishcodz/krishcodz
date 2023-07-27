@@ -1,8 +1,8 @@
 ![MasterHead](https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif)
 <h2 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=F7F7F7&width=475&lines=Hi,+I'm+krishna+Sai+Ram;I'm+a+Full+Stack+Developer;I'm+a+Sophomore+at+Srm-ktr" alt="Typing SVG" /></a></h2>
 
-- 👀 I’m interested in becoming a web developer
-- 🌱 I’m currently learning ReactJS
+- 👀 I’m interested in becoming a full stack developer
+- 🌱 I’m currently learning NextJS
 - 💞️ I’m looking to collaborate on web dev projects
 - 📫 How to reach me :  krishnax711@gmail.com
 
