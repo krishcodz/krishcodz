@@ -24,5 +24,5 @@
 # **📈Statistics**
 ![krishcodz's Stats](https://github-readme-stats.vercel.app/api?username=krishcodz&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)
 ![krishcodz's Streak](https://github-readme-streak-stats.herokuapp.com/?user=krishcodz&theme=tokyonight&hide_border=true)
-
+[![trophy](https://github-profile-trophy.vercel.app/?username=krishcodz&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 ![snake gif](https://github.com/krishcodz/krishcodz/blob/77a1cb249177911fa3f3b32907565249a3b5bdee/github-contribution-grid-snake.svg)
