@@ -15,7 +15,7 @@
 <br/>
 
 # Back-End
-[![My Skills](https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=nodejs,express,solidity,mongodb,mysql)](https://skillicons.dev)
 <br />
 
 # Tools Used
